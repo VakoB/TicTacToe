@@ -14,7 +14,7 @@ Tic Tac Toe is a classic two-player game where players take turns marking spaces
 ## Getting Started
 
 1. Clone or download the repository.
-2. Open the `TicTacToe.html` file in your web browser.
+2. Open the `index.html` file in your web browser.
 
 ## How to Play
 
@@ -26,7 +26,7 @@ Tic Tac Toe is a classic two-player game where players take turns marking spaces
 
 Feel free to modify the styles and enhance the functionality to suit your preferences. The project files include:
 
-- `TicTacToe.html`: The main HTML file.
+- `index.html`: The main HTML file.
 - `tictactoe.css`: Stylesheet for the game layout.
 - `tictactoe.js`: JavaScript file containing the game logic.
 
