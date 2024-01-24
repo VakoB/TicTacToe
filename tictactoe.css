@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: brown;
+}
+.box {
+    width:max-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.box .row > button{
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    margin: 5px;
+}
+h1 {
+    font-family:monospace;
+    color: goldenrod;
+    margin-top: 100px;
+    font-size: 50px;
+}
+.score {
+    display: inline-block;
+    margin-inline: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+}
+.score > strong{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.score-text {
+    font-family:monospace;
+    color: goldenrod;
+    font-size: 30px;
+}
