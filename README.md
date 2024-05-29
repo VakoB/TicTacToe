@@ -1,6 +1,7 @@
 # Tic Tac Toe
 
-Welcome to Tic Tac Toe, a simple web-based game built with HTML, CSS, and JavaScript. This project marks my first venture into web development, and I'm excited to share it with you!
+Welcome to Tic Tac Toe, a simple web-based game built with HTML, CSS, and JavaScript. This project marks my first venture into web development!
+https://vakob.github.io/TicTacToe/
 
 ## Overview
 
