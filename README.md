@@ -1,7 +1,6 @@
 # Tic Tac Toe
 
 Welcome to Tic Tac Toe, a simple web-based game built with HTML, CSS, and JavaScript. This project marks my first venture into web development!
-https://vakob.github.io/TicTacToe/
 
 ## Overview
 
@@ -16,12 +15,13 @@ Tic Tac Toe is a classic two-player game where players take turns marking spaces
 
 1. Clone or download the repository.
 2. Open the `index.html` file in your web browser.
-
+or
+click the link: https://vakob.github.io/TicTacToe/
 ## How to Play
 
-- Click on a cell to make your move.
-- The game alternates between X and O.
-- The first player to get three symbols in a row wins.
+- Click on a button to make your move.
+- The game alternates between Red and Green.
+- The first player to get their three colors in /, \, | or - gets a point.
 
 ## Customization
 
