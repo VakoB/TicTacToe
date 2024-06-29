@@ -21,7 +21,7 @@ click the link: https://vakob.github.io/TicTacToe/
 
 - Click on a button to make your move.
 - The game alternates between Red and Green.
-- The first player to get their three colors in /, \, | or - gets a point.
+- The first player to get their three colors in /, \\, | or - gets a point.
 
 ## Customization
 
